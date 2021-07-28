@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class StrudentUse {
     public static void main(String[] args) {
 
